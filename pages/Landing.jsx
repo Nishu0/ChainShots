@@ -37,15 +37,15 @@ function Landing() {
                   data-aos-delay="150"
                 >
                   ChainShots built on top of Flow and ChainLink, using the power of
-                  The Graph and leveraging the Storage By FileCoin x IPFS allow
+                  The Flow, Chainlink and leveraging the Storage By FileCoin x IPFS allow
                   users to create, share and watch videos, without worrying
                   about their privacy.
                 </p>
                 <div className="flex flex-row gap-8 justify-center my-4 text-purple-400 items-center text-2xl">
                   Build With :
-                  <img src="/Assets/polygon.svg" className="w-8" />
                   <img src="/Assets/filecoin.svg" className="w-8" />
-                  <img src="/Assets/graph.png" className="w-8" />
+                  <img src="/Assets/flow.svg" className="w-8" />
+                  <img src="/Assets/chainlink.svg" className="w-8" />
                 </div>
                 <button
                   className="items-center  bg-white rounded-lg font-medium  p-3 shadow-lg"

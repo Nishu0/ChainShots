@@ -12,7 +12,7 @@ export default function Navbar() {
             <div className='text-white flex h-16 sticky top-0 z-10 w-full bg-black flex-row justify-between items-center px-6'>
                 <div className='h-28 w-28'>
                     <img
-                        src='/Assets/VIDEOGRAM.svg'
+                        src='/Assets/Chainshots.svg'
                         alt=''
                     />
                 </div>
