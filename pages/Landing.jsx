@@ -27,7 +27,7 @@ function Landing() {
               >
                 Welcome to{" "}
                 <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400">
-                BlockFlicks
+                ChainShots
                 </span>
               </h1>
               <div className="max-w-4xl mx-auto">
@@ -36,7 +36,7 @@ function Landing() {
                   data-aos="zoom-y-out"
                   data-aos-delay="150"
                 >
-                  BlockFlicksm built on top of Polygon network, using the power of
+                  ChainShots built on top of Flow and ChainLink, using the power of
                   The Graph and leveraging the Storage By FileCoin x IPFS allow
                   users to create, share and watch videos, without worrying
                   about their privacy.

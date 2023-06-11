@@ -1,8 +1,8 @@
 import { ethers } from 'hardhat'
 
 async function main() {
-    const VideoGramContract = await ethers.getContractFactory('VideoGram')
-    const DeployContract = await VideoGramContract.deploy()
+    const ChainShotsContract = await ethers.getContractFactory('ChainShots')
+    const DeployContract = await ChainShotsContract.deploy()
 
     await DeployContract.deployed()
 
