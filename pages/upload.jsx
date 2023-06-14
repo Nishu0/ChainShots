@@ -28,7 +28,7 @@ export default function Upload() {
       toast.error("Please fill all  the fields");
       return;
     }
-    const toastMessage = toast.loading("Uploading Video Banner to IPFS....");
+    const toastMessage = toast.loading("Uploading Video ....");
     let VIDEO_THUMBNAIL_HASH = await saveThumnail(thumbnail);
     toast.update(toastMessage, {
       render: "Uploading Video...",

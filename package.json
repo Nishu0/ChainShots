@@ -10,6 +10,9 @@
     },
     "dependencies": {
         "@apollo/client": "^3.6.9",
+        "@blocto/sdk": "^0.4.8",
+        "@onflow/fcl": "^1.4.0",
+        "@onflow/types": "^1.1.0",
         "autoprefixer": "^10.4.8",
         "dotenv": "^16.0.2",
         "ethers": "^5.7.0",
@@ -24,6 +27,7 @@
         "react-icons": "^4.4.0",
         "react-toastify": "^9.1.1",
         "tailwindcss": "^3.1.8",
+        "web3": "^4.0.1",
         "web3.storage": "^4.4.0",
         "zustand": "^4.1.1"
     },
